@@ -29,7 +29,7 @@ We used Laravel framework, MySQL, React JS for front-end and used Inertia JS(Mod
 # About 
 
 The front-end is created using React &
-Interia JS(Modern Monolith), while the back-end is developed using Laravel Framework on PHP where users can make order to get delivered within 15 minutes.<br/>
+Intertia JS(Modern Monolith), while the back-end is developed using Laravel Framework where users can make order to get delivered within 15 minutes.<br/>
 User can check orders with details.<br/>
 User can cancel order instantly without any questions.<br/>
 Uesr can review the platform or feedback as well.
