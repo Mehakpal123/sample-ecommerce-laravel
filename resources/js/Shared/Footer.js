@@ -70,8 +70,8 @@ export default () => {
 						<div className="footer-column footer-column-4">
 							<h2>RESOURCES</h2>
 							<ul>
-								<li><a target="_blank" href={`${app.url}SHMACKED-PRIVACY-POLICY.pdf`}>Privacy Policy</a></li>
-								<li><a target="_blank" href={`${app.url}SHMACKED-TERMS.pdf`}>Terms</a></li>
+								<li><a target="_blank" href={`${app.url}CGT-PRIVACY-POLICY.pdf`}>Privacy Policy</a></li>
+								<li><a target="_blank" href={`${app.url}CGT-TERMS.pdf`}>Terms</a></li>
 							</ul>
 						</div>
 					</div>

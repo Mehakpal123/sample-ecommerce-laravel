@@ -128,7 +128,7 @@ export default () => {
 							</div>
 							
 							<div className="form-grouph signup-text text-center">
-								<p>By clicking signup, I have confirmed to provide acceptance to <a target="_blank" href={`${app.url}SHMACKED-TERMS.pdf`}>Terms</a> and <a target="_blank" href={`${app.url}SHMACKED-PRIVACY-POLICY.pdf`}>Privacy Policy</a> of {app.name}</p>								
+								<p>By clicking signup, I have confirmed to provide acceptance to <a target="_blank" href={`${app.url}CGT-TERMS.pdf`}>Terms</a> and <a target="_blank" href={`${app.url}CGT-PRIVACY-POLICY.pdf`}>Privacy Policy</a> of {app.name}</p>								
 							</div>								
 							<div className="form-grouph signup-text text-center">
 								<p>Already signed up with {app.name}? 

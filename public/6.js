@@ -120,7 +120,7 @@ var Home = function Home() {
     className: "col-xl-6 col-lg-6 col-md-6 col-sm-12"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "heading-paragraph-design"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Become a rider"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "We\u2019re a UT startup that thrives on the values of time, convenience, and a college party lifestyle. For that we created Shmacked, a delivery service that gets you anything from snacks to puffs in less than 15 minutes!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Become a rider"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "We\u2019re a UT startup that thrives on the values of time, convenience, and a college party lifestyle. For that we created CGT, a delivery service that gets you anything from snacks to puffs in less than 15 minutes!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     className: "black-btn-design",
     href: "#"
   }, "APPLY NOW"))))))));

@@ -155,7 +155,7 @@ const Ucla = () => {
     return (
 		<Layout setCartPopup={setCartPopup} cartCount={cartCount} cartPrice={cartPrice}>
 		<div>
-			<Helmet title="Shmacked - UT Austin's Fastest Delivery Service" />
+			<Helmet title="CGT - UT Austin's Fastest Delivery Service" />
 			
 			<main className="main-content">
 				<div className="shop-page-wrapper">

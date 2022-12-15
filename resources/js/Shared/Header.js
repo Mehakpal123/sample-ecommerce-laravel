@@ -450,7 +450,7 @@ export default ({setCartPopup, cartCount, cartPrice}) => {
 							</LoadingButton>
 						</div>
 						<div className="form-grouph signup-text text-center">
-							<p>New to Shmacked? 
+							<p>New to CGT? 
 								<a href="#" onClick={() => setModalType('register')}> Sign Up</a>
 							</p>
 						</div>

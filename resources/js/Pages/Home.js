@@ -26,7 +26,7 @@ const Home = () => {
 	
     return (
 		<div>
-			<Helmet title="Shmacked - UT Austin's Fastest Delivery Service" />
+			<Helmet title="CGT - UT Austin's Fastest Delivery Service" />
 			
 			<main className="main-content">				
 				<section className="header-gredient-cntnt" style={{backgroundImage: "url(" + "images/gredient-bg.png" + ")"}}>
@@ -128,7 +128,7 @@ const Home = () => {
 							<div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 								<div className="heading-paragraph-design">
 									<h2>Become a Rider</h2>
-									<p>We’re a UT startup that thrives on the values of time, convenience, and a college party lifestyle. For that we created Shmacked, a delivery service that gets you anything from snacks to puffs in less than 15 minutes!</p>
+									<p>We’re a UT startup that thrives on the values of time, convenience, and a college party lifestyle. For that we created CGT, a delivery service that gets you anything from snacks to puffs in less than 15 minutes!</p>
 									<a className="black-btn-design" href={route('applyNow')}>APPLY NOW</a>
 								</div>
 							</div>

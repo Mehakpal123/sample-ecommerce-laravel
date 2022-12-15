@@ -567,7 +567,7 @@ class CheckoutController extends Controller
 				message(config('app.admin.phone_number'), $mes);
 
 				//user
-				//$url = 'venmo://paycharge?txn=pay&recipients=shmackedut&amount='.$amount.'&note=SHMACKED.COM: 15 minute delivery order #'.$payment->id;
+				//$url = 'venmo://paycharge?txn=pay&recipients=CGTut&amount='.$amount.'&note=CGT.COM: 15 minute delivery order #'.$payment->id;
 				$msg = 'Your Order Placed, follow the link for payment '. route('orders.show', $payment->id);
 				message($user->phone_number, $msg);
 			} catch(Exception $e) { }

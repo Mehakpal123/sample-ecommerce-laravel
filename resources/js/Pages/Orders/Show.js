@@ -87,8 +87,8 @@ const Show = () => {
 								</div>
 								
 								<div className="alert alert-info">
-								Please complete your payment on Venmo to @shmackedut so we can deliver your order.
-									<a target="_blank" href={`venmo://paycharge?txn=pay&recipients=shmackedut&amount=${order.amount}&note=SHMACKED.COM: 15 minute delivery order #${order.id}`}> Pay with Venmo ${order.amount}</a>
+								Please complete your payment on Venmo to @CGTut so we can deliver your order.
+									<a target="_blank" href={`venmo://paycharge?txn=pay&recipients=CGTut&amount=${order.amount}&note=CGT.COM: 15 minute delivery order #${order.id}`}> Pay with Venmo ${order.amount}</a>
 								</div>
 							</>
 							}

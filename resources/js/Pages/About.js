@@ -19,7 +19,7 @@ const About = () => {
 							<div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 								<div className="about-us-text">
 									<h2>About Us</h2>
-									<p>If your reading this you probably already know Shmacked delivers college students’ favorite snacks, drinks, and essentials in less than 15 minutes. Yea we’re the fastest delivery service ever, but Shmacked is so much more.
+									<p>If your reading this you probably already know CGT delivers college students’ favorite snacks, drinks, and essentials in less than 15 minutes. Yea we’re the fastest delivery service ever, but CGT is so much more.
 									Take if from the definition of our name:</p>
 								</div>
 							</div>
@@ -37,7 +37,7 @@ const About = () => {
 							<div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 								<div className="vision-lft-txt">
 									<p>
-									Shmacked is all about the amazing experiences of an eccentric college lifestyle. We here at Shmacked are college students just like you and know that this is one of the most fun and crazy times of your life. For that reason, we’d decided to make having an amazing college experience that much easier. Shmacked is all about energy, excitement, and entertainment. College is a once-in-a-lifetime opportunity and we wanna help you make the most of it through our convenient delivery, dope merch, and sponsored events. So even though it is the fastest delivery service out there, Shmacked began with a vision. A vision that a college experience only comes once, so why not enjoy every second of it.
+									CGT is all about the amazing experiences of an eccentric college lifestyle. We here at CGT are college students just like you and know that this is one of the most fun and crazy times of your life. For that reason, we’d decided to make having an amazing college experience that much easier. CGT is all about energy, excitement, and entertainment. College is a once-in-a-lifetime opportunity and we wanna help you make the most of it through our convenient delivery, dope merch, and sponsored events. So even though it is the fastest delivery service out there, CGT began with a vision. A vision that a college experience only comes once, so why not enjoy every second of it.
 									</p>
 									<div className="our-vision-box">
 										<h2 id="mission">our mission</h2>
