@@ -11,13 +11,6 @@ We used Laravel framework, MySQL, React JS for front-end and used Inertia JS(Mod
 - Sign In
 ![SignIn-laravel-sample-ecommerce](https://user-images.githubusercontent.com/113582889/207791714-6df862ef-2949-40ec-b9ed-276c43c3ab40.png)
 
-  
-- Sign Up 
-![SignUp-laravel-sample-ecommerce](https://user-images.githubusercontent.com/113582889/207786949-b704b1cb-2d25-4494-94e7-a841cf53616c.png)
-
-- Forgot Password
-![Forgot-password-laravel-sample-ecommerce](https://user-images.githubusercontent.com/113582889/207791452-9cca5e6a-1cb5-42a2-a37a-8346438f794d.png)
-
 
 - Home/Order First Page
 ![Order-first-page-laravel-sample-ecommerce](https://user-images.githubusercontent.com/113582889/207787505-e77aef8f-7069-4099-9f8e-b0355f61b4fa.png)
